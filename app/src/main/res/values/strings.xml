@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight_metric_label">Weight [kg]:</string>
+    <string name="height_metric_label">Height [cm]:</string>
+    <string name="weight_imperial_label">Weight [lb]:</string>
+    <string name="height_imperial_label">Height [in]:</string>
+    <string name="count_bmi">Count BMI</string>
+    <string name="bmi">BMI:</string>
+    <string name="please_enter_your_data">Please, enter your data</string>
+    <string name="metric">metric</string>
+    <string name="imperial">imperial</string>
+    <string name="overweight_feedback">It looks like you are overweight, sorry :(</string>
+    <string name="underweight_feedback">It looks like you are underweight, sorry :(</string>
+    <string name="normal_feedback">Your BMI seems normal!</string>
+    <string name="clear">Clear</string>
+    <string name="data_not_valid">Please, enter valid data.</string>
+    <string name="please_enter_valid_weight">Please, enter valid weight.</string>
+    <string name="please_enter_valid_height">Please, enter valid height.</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="about_author">About author</string>
+    <string name="saved">Saved!</string>
+    <string name="share_your_bmi">Share your BMI using…</string>
+    <string name="please_count_first">Please, count your BMI first.</string>
+    <string name="my_bmi_is">My BMI is:</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="jan_kowalski">Jan Kowalski</string>
+    <string name="example_mail">example@mail.com</string>
+    <string name="BMI_calc">BMI Calculator</string>
+    <string name="github">Github</string>
+    <string name="example_github">github.com/kowalski</string>
+</resources>
